@@ -5,6 +5,6 @@
 <details>
     <summary>Coding Statistics</summary> 
     <p align="center">
-        <img src="https://wakatime.com/share/@aldy_rifaldi/b8516659-ae1d-4756-9a6b-49f5a053e896.svg" width="100%" height="400"/>
+        <img src="https://wakatime.com/share/@aldy_rifaldi/914d6647-823b-4b08-b7d4-fe036a65bb85.svg" width="100%" height="400"/>
     </p>
 </details>

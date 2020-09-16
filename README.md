@@ -18,13 +18,17 @@
 <p align="center">
 
 <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25px" height="25px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/android/android-original.svg" width="25px" height="25px"/>
-
-<img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
-
+<img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" width="25px" height="25px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="25px" height="25px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/android/android-original.svg" width="25px" height="25px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
+
 </p>

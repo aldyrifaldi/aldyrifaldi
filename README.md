@@ -16,12 +16,9 @@
     </a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
-<p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true"/>
-</p>
-<a href="https://arshiamidos.github.io">
+<a href="">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=arshiamidos&column=7&theme=onedark"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=aldyrifaldi&count_private=true&show_icons=true&theme=radical"/>
     </p>
 </a>
 <!-- My GitHub stats with buefy theme ❤️ -->

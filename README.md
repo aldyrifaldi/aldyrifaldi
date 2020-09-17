@@ -32,3 +32,18 @@
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
 
 </p>
+
+<p align="center">
+    <a href="https://github.com/aldyrifaldi/Lumen-Passport-Api-Login-Register">
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyrifaldi&repo=Lumen-Passport-Api-Login-Register&theme=radical&show_icons=true&layout=compact" alt="Lumen-Passport-Api-Login-Register" />
+    </a>
+    <a href="https://github.com/aldyrifaldi/Rest-API-GO-with-CRUD">
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyrifaldi&repo=Rest-API-GO-with-CRUD&theme=radical&show_icons=true&layout=compact" alt="Rest-API-GO-with-CRUD" />
+    </a>
+    <a href="https://github.com/aldyrifaldi/AdonisJS-Simple-RestFull-API">
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyrifaldi&repo=AdonisJS-Simple-RestFull-API&theme=radical&show_icons=true&layout=compact" alt="AdonisJS-Simple-RestFull-API" />
+    </a>
+     <a href="https://github.com/aldyrifaldi/Simple-CRUD-with-axios-JQuery">
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyrifaldi&repo=Simple-CRUD-with-axios-JQuery&theme=radical&show_icons=true&layout=compact" alt="Simple-CRUD-with-axios-JQuery" />
+    </a>
+</p>

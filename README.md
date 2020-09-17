@@ -1,6 +1,3 @@
-<p>My Profile</p>
-<h1 align="center" style="font-size:300px">Aldyrifaldi</h1>
-
 <!-- My GitHub stats with buefy theme ❤️ -->
 <p>My Github Stats & Languages Used</p>
 

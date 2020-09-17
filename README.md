@@ -10,7 +10,7 @@
     <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyrifaldi&repo=Lumen-Passport-Api-Login-Register&theme=radical&show_icons=true&layout=compact" alt="Lumen-Passport-Api-Login-Register" width="420"/>
     <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyrifaldi&repo=Simple-CRUD-with-axios-JQuery&theme=radical&show_icons=true&layout=compact" alt="Simple-CRUD-with-axios-JQuery"width="420"/>
     <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyrifaldi&repo=Rest-API-GO-with-CRUD&theme=radical&show_icons=true&layout=compact" alt="Rest-API-GO-with-CRUD" width="420"/>
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyrifaldi&repo=AdonisJS-Simple-RestFull-API&theme=radical&show_icons=true&layout=compact" alt="AdonisJS-Simple-RestFull-API" width="420"/>
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyrifaldi&repo=Lumen-Setup-Api&theme=radical&show_icons=true&layout=compact" alt="AdonisJS-Simple-RestFull-API" width="420"/>
 </p>
 
 

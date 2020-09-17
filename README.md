@@ -20,7 +20,7 @@
 <details>
     <summary>Coding Statistics</summary> 
     <p align="center">
-        <img src="https://wakatime.com/share/@aldy_rifaldi/c28b65e4-6338-4131-b751-a20fbe178cb2.svg" width="100%" height="400"/>
+        <img src="https://wakatime.com/share/@aldy_rifaldi/2cd63256-b78e-452f-b264-2456a5f11bf5.svg" width="100%" height="400"/>
     </p>
 </details>
 

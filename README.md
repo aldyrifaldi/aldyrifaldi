@@ -20,12 +20,12 @@
 <details>
     <summary>Coding Statistics</summary> 
     <p align="center">
-        <img src="https://wakatime.com/share/@aldy_rifaldi/2cd63256-b78e-452f-b264-2456a5f11bf5.svg" width="100%" height="400"/>
+        <img src="https://wakatime.com/share/@aldyrifaldi/b6eb0e0f-684a-43a2-914e-8e60b6f30b83.svg" width="100%" height="400"/>
     </p>
 </details>
 
 
-
+1
 
 <p align="center">
 

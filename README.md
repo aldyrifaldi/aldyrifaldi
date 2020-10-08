@@ -25,8 +25,6 @@
 </details>
 
 
-1
-
 <p align="center">
 
 <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>

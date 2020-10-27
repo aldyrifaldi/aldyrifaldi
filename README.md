@@ -3,19 +3,9 @@
 
 <a align="center" href="">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aldyrifaldi&count_private=true&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldyrifaldi&layout=compact&hide=html,css&theme=radical" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=aldyrifaldi&count_private=true&show_icons=true&theme=light" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldyrifaldi&layout=compact&hide=html,css&theme=light" alt="languages" height="165">
 </p>
 </a>
-
- 
-<p>My Projects (Private not included)</p>
-<p align="center">
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyrifaldi&repo=Lumen-Passport-Api-Login-Register&theme=radical&show_icons=true&layout=compact" alt="Lumen-Passport-Api-Login-Register" width="420"/>
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyrifaldi&repo=Simple-CRUD-with-axios-JQuery&theme=radical&show_icons=true&layout=compact" alt="Simple-CRUD-with-axios-JQuery"width="420"/>
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyrifaldi&repo=Rest-API-GO-with-CRUD&theme=radical&show_icons=true&layout=compact" alt="Rest-API-GO-with-CRUD" width="420"/>
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyrifaldi&repo=Lumen-Setup-Api&theme=radical&show_icons=true&layout=compact" alt="AdonisJS-Simple-RestFull-API" width="420"/>
-</p>
-
 
 <details>
     <summary>Coding Statistics</summary> 

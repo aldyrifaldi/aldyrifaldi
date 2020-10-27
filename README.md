@@ -1,6 +1,8 @@
 ### Hi there <img height="25" width="25"  src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
-<div align="center">
+<p>My name is Aldy Rifaldi.B, i'm a backend developer since mid-2019.</p>
+
+<div align="left">
  
 [![Twitter Badge](http://img.shields.io/badge/-@aldyrifaldi06-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/aldyrifaldi06)](https://twitter.com/aldyrifaldi06) 
 [![GitHub followers](https://img.shields.io/github/followers/aldyrifaldi?label=Follow&style=social)](https://github.com/aldyrifaldi/?tab=follow) 
@@ -9,7 +11,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-aldyrifaldi-blue?style=social&logo=telegram&link=https://www.t.me/aldyrifaldi/)](https://www.t.me/aldyrifaldi/) 
 ![visitors](https://hit-badger.glitch.me/badge?page_id=aldyrifaldi.aldyrifaldi)
 
-
+</div>
 <!-- My GitHub stats with buefy theme ❤️ -->
 <p>My Github Stats & Languages Used</p>
 

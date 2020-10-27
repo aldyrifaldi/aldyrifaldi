@@ -2,10 +2,10 @@
 
 <div align="center">
  
-[![Twitter Badge](http://img.shields.io/badge/-@aldyrifaldi-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/aldyrifaldi)](https://twitter.com/aldyrifaldi) 
+[![Twitter Badge](http://img.shields.io/badge/-@aldyrifaldi06-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/aldyrifaldi06)](https://twitter.com/aldyrifaldi06) 
 [![GitHub followers](https://img.shields.io/github/followers/aldyrifaldi?label=Follow&style=social)](https://github.com/aldyrifaldi/?tab=follow) 
 [![Instagram Badge](https://img.shields.io/badge/-aldyrifaldi06-blue?style=social&logo=Instagram&link=https://www.instagram.com/aldyrifaldi06/)](https://www.instagram.com/aldyrifaldi06/) 
-[![Facebook Badge](https://img.shields.io/badge/-aldyrifaldi-blue?style=social&logo=facebook&link=https://www.facebook.com/aldyrifaldi06/)](https://www.facebook.com/aldyrifaldi06/) 
+[![Facebook Badge](https://img.shields.io/badge/-aldyrifaldi06-blue?style=social&logo=facebook&link=https://www.facebook.com/aldyrifaldi06/)](https://www.facebook.com/aldyrifaldi06/) 
 [![Telegram Badge](https://img.shields.io/badge/-aldyrifaldi-blue?style=social&logo=telegram&link=https://www.t.me/aldyrifaldi/)](https://www.t.me/aldyrifaldi/) 
 ![visitors](https://hit-badger.glitch.me/badge?page_id=aldyrifaldi.aldyrifaldi)
 
